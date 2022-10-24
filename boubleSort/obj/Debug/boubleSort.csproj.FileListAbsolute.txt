@@ -1,0 +1,8 @@
+D:\c# projekty\boubleSort\boubleSort\bin\Debug\boubleSort.exe.config
+D:\c# projekty\boubleSort\boubleSort\bin\Debug\boubleSort.exe
+D:\c# projekty\boubleSort\boubleSort\bin\Debug\boubleSort.pdb
+D:\c# projekty\boubleSort\boubleSort\obj\Debug\boubleSort.csproj.AssemblyReference.cache
+D:\c# projekty\boubleSort\boubleSort\obj\Debug\boubleSort.csproj.SuggestedBindingRedirects.cache
+D:\c# projekty\boubleSort\boubleSort\obj\Debug\boubleSort.csproj.CoreCompileInputs.cache
+D:\c# projekty\boubleSort\boubleSort\obj\Debug\boubleSort.exe
+D:\c# projekty\boubleSort\boubleSort\obj\Debug\boubleSort.pdb
